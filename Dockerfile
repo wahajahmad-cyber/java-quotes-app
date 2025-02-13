@@ -2,9 +2,9 @@
 FROM openjdk:17-jdk-alpine
 
 # Set metadata
-LABEL maintainer="your-email@example.com"
+LABEL maintainer="trainwithshubham@gmail.com"
 LABEL version="1.0"
-LABEL description="A simple Java HTTP server application"
+LABEL description="A Java Quotes application"
 
 # Set the working directory inside the container
 WORKDIR /app
